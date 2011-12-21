@@ -1,2 +1,2 @@
 require 'phoenix_core'
-require 'phoenix_portal/engine'
+require 'phoenix/portal/engine'
